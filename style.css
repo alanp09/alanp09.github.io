@@ -79,6 +79,13 @@ nav{
 	background-color: #37124d;
 }
 
+.ta{
+	text-align: center;
+	width: 75%;
+	border: 1px solid;
+	margin: auto;
+}
+
 #html{
 	margin: auto;
 	padding: 20px;
